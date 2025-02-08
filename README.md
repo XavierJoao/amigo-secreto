@@ -40,13 +40,13 @@ A aplicação permite que os usuários insiram nomes de amigos em uma lista e, a
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Realizar cadastro dos usuários, podendo ser paciente ou profissional de saúde.
+:heavy_check_mark: `Adicionar nomes:` Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
 
-:heavy_check_mark: `Funcionalidade 2:` Armazenar dados do usuário, como glicemia, atividade física, alimentação, medicação, administração de insulina e peso no banco de dados na Cloud Firestore.
+:heavy_check_mark: `Validar entrada:` Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
 
-:heavy_check_mark: `Funcionalidade 3:` Plotar gráfico com histórico dos níveis glicêmicos do paciente.
+:heavy_check_mark: `Visualizar a lista:` Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 
-:heavy_check_mark: `Funcionalidade 4:` Chat com entre o paciente e profissional da saúde.
+:heavy_check_mark: `Sorteio aleatório:` Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 ## Aplicação
 
