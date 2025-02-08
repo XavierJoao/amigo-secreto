@@ -1,4 +1,4 @@
-![logo_GlicoCare](https://user-images.githubusercontent.com/37356058/131255528-265f5bca-609f-45e8-a574-b77b8d542381.png#vitrinedev)
+![logo-amigo-secreto](https://github.com/user-attachments/assets/a34f3fcb-6bd1-4df4-8feb-9cf235d07e65)
 
 <hr>
 
