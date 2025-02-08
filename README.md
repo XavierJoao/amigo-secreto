@@ -74,19 +74,15 @@ A aplicação permite que os usuários insiram nomes de amigos em uma lista e, a
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/camilafernanda/GlicoCare) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/seu-usuario/seu-repositorio) ou [baixá-lo em formato .zip](https://github.com/seu-usuario/seu-repositorio/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o `Android Studio`. Para isso, na tela de launcher clique em:
+Após baixar o projeto, siga os passos abaixo para rodá-lo localmente:
 
-- `Open an Existing Project` (ou alguma opção similar);
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
-- Por fim clique em `OK`.
+1. Extraia o arquivo `.zip` (caso tenha feito o download compactado).
+2. Abra a pasta do projeto no seu editor de código favorito, como o `VS Code`.
+3. Localize o arquivo `index.html`.
+4. Clique com o botão direito no arquivo `index.html` e selecione **"Abrir com o navegador"** ou simplesmente **duplo clique** no arquivo.
 
-O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
-
-## Desenvolvedores
-
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Clóvis Ribeiro Júnior</sub>](https://github.com/crovim)  |
-| :---: | :---: 
+O projeto abrirá diretamente no seu navegador padrão! 🌐🚀
