@@ -1,6 +1,6 @@
 ![logo-amigo-secreto](https://github.com/user-attachments/assets/a34f3fcb-6bd1-4df4-8feb-9cf235d07e65)
 
-**olá**
+**olá mundo**
 <hr>
 
 <p align="center">
