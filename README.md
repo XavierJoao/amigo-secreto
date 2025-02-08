@@ -40,13 +40,13 @@ A aplicação permite que os usuários insiram nomes de amigos em uma lista e, a
 
 ## Funcionalidades
 
-:heavy_check_mark: `Adicionar nomes:` Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+:construction: `Adicionar nomes:` Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
 
-:heavy_check_mark: `Validar entrada:` Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+:construction: `Validar entrada:` Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
 
-:heavy_check_mark: `Visualizar a lista:` Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
+:construction: `Visualizar a lista:` Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 
-:heavy_check_mark: `Sorteio aleatório:` Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+:construction: `Sorteio aleatório:` Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 ## Aplicação
 
@@ -60,9 +60,17 @@ A aplicação permite que os usuários insiram nomes de amigos em uma lista e, a
 
 ## Ferramentas utilizadas
 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a> 
 
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+</a> 
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+</a>
 
 ###
 
