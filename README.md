@@ -25,9 +25,16 @@
 ## Descrição do projeto 
 
 <p align="justify">
- Projeto em desenvolvimento para disciplina Instrumentação Biomédica II do curso de Engenharia Biomédica. O GlicoCare é um sistema de telemonitoramento domiciliar para a atenção especializada de pessoas acometidas por diabetes mellitus.
+   Projeto em desenvolvimento para a **Formação Iniciante em Programação G8 - ONE**. 
 
-O sistema permitirá o monitoramento diário, contínuo e remoto do nível de glicose no sangue (glicemia), possibilitando que familiares, cuidadores, profissionais da saúde ou o próprio paciente acompanhem o estado clínico do mesmo.
+   O **Amigo Secreto App** é uma aplicação simples e interativa que facilita a organização de sorteios de amigo secreto. O projeto foi desenvolvido com foco na prática de conceitos fundamentais de lógica de programação, como variáveis, condicionais, funções e listas.
+
+---
+
+## 📋 Descrição do Projeto
+
+A aplicação permite que os usuários insiram nomes de amigos em uma lista e, ao final, realizem um sorteio aleatório para descobrir quem será o **amigo secreto**! 🎉
+
 
 ![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
 </p>
