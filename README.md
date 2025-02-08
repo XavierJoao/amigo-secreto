@@ -33,7 +33,7 @@
 A aplicação permite que os usuários insiram nomes de amigos em uma lista e, ao final, realizem um sorteio aleatório para descobrir quem será o **amigo secreto**! 🎉
 
 
-![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.]()
+![]()
 </p>
 
 ## Funcionalidades
