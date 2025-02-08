@@ -25,7 +25,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-   Projeto em desenvolvimento para a **Formação Iniciante em Programação G8** - **ONE**.** 
+   Projeto em desenvolvimento para a </strong>Formação Iniciante em Programação G8 - ONE</strong>. 
 
    O **Amigo Secreto App** é uma aplicação simples e interativa que facilita a organização de sorteios de amigo secreto. O projeto foi desenvolvido com foco na prática de conceitos fundamentais de lógica de programação, como variáveis, condicionais, funções e listas.
 
@@ -33,7 +33,7 @@
 
 ## 📋 Descrição do Projeto
 
-A aplicação permite que os usuários insiram nomes de amigos em uma lista e, ao final, realizem um sorteio aleatório para descobrir quem será o **amigo secreto**! 🎉
+A aplicação permite que os usuários insiram nomes de amigos em uma lista e, ao final, realizem um sorteio aleatório para descobrir quem será o </strong>amigo secreto</strong>! 🎉
 
 
 ![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
