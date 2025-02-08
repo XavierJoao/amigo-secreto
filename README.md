@@ -22,7 +22,7 @@
 
 - [Desenvolvedores](#desenvolvedores)
 
-## Descrição do projeto 
+## 📋 Descrição do projeto 
 
 <p align="justify">
    Projeto em desenvolvimento para a <strong>Formação Iniciante em Programação G8 - ONE</strong>.
@@ -31,8 +31,6 @@
    O **Amigo Secreto App** é uma aplicação simples e interativa que facilita a organização de sorteios de amigo secreto. O projeto foi desenvolvido com foco na prática de conceitos fundamentais de lógica de programação, como variáveis, condicionais, funções e listas.
 
 ---
-
-## 📋 Descrição do Projeto
 
 A aplicação permite que os usuários insiram nomes de amigos em uma lista e, ao final, realizem um sorteio aleatório para descobrir quem será o **amigo secreto**! 🎉
 
