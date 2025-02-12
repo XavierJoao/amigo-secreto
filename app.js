@@ -1,5 +1,6 @@
 // Array de amigos à serem sorteados
 let amigos = [];
+let amigosDisponiveis = [];  // Lista temporária para controlar quem já foi sorteado
 
 // Função para adicionar nomes à lista de amigos
 function adicionarAmigo(){
@@ -24,6 +25,9 @@ function adicionarAmigo(){
 
     // Limpa o campo de entrada
     document.getElementById('amigo').value = "";
+
+    // Atualiza a lista de disponíveis para incluir novos amigos
+    amigosDisponiveis = [...amigos];
 }
 
 // Função para atualizar a lista de amigos
@@ -45,11 +49,17 @@ function sortearAmigo() {
         return;
     }
 
-    // Gerar um índice aleatório
-    const indiceAleatorio = Math.floor(Math.random() * amigos.length);
+    if (amigosDisponiveis.length === 0) {
+        document.getElementById('resultado').textContent = "Todos os amigos já foram sorteados! Reiniciando sorteio...";
+        amigosDisponiveis = [...amigos];  // Reinicia a lista para um novo ciclo de sorteios
+        return;
+    }
 
+    // Gerar um índice aleatório
+    const indiceAleatorio = Math.floor(Math.random() * amigosDisponiveis.length);
+    
     // Obter o nome sorteado
-    const amigoSorteado = amigos[indiceAleatorio];
+    const amigoSorteado = amigosDisponiveis.splice(indiceAleatorio, 1)[0];  // Remove o amigo sorteado da lista
 
     // Mostrar o resultado
     document.getElementById('resultado').innerHTML = `O amigo sorteado é: ${amigoSorteado}`;
