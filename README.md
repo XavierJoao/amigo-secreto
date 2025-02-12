@@ -50,7 +50,7 @@ A aplicação permite que os usuários insiram nomes de amigos em uma lista e, a
 
 <div align="center">
 
-![Funcionamento]([https://user-images.githubusercontent.com/37356058/135944390-ec96d4ec-ee43-4db9-882f-89be66aad23a.gif](https://github.com/user-attachments/assets/3fd8e5a6-2e1b-43a0-955c-bc7b0b9f42ed))
+![Funcionamento](https://github.com/user-attachments/assets/910b540b-089c-4f82-b6b9-1bed3aad1cde)
 
   </div>
 
