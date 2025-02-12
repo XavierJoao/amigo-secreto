@@ -41,7 +41,7 @@ function atualizarLista() {
 // Função para sortear um amigo secreto
 function sortearAmigo() {
     if (amigos.length === 0) {
-        alert("A lista de amigos está vazia");
+        document.getElementById('resultado').textContent = "A lista de amigos está vazia.";
         return;
     }
 
