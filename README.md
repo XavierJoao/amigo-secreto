@@ -74,7 +74,7 @@ A aplicação permite que os usuários insiram nomes de amigos em uma lista e, a
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/seu-usuario/seu-repositorio) ou [baixá-lo em formato .zip](https://github.com/seu-usuario/seu-repositorio/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/XavierJoao/amigo-secreto) ou [baixá-lo em formato .zip](https://github.com/XavierJoao/amigo-secreto/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 
